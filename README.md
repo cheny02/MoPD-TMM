@@ -5,7 +5,7 @@
 
 # Training and Testing
 
-We provide bash scripts in [scripts/](../scripts) for training and testing MoPD.
+We provide bash scripts in [scripts/](./scripts) for training and testing MoPD.
 Make sure to update the `DATA` variable with dataset path in the script file and run the commands from the main directory `/scripts/`.
 Below we provide training and testing instructions for ATLaS.
 
@@ -33,4 +33,5 @@ If you find our paper of codebase useful, please consider citing us as:
         primaryClass={cs.CV},
         url={https://arxiv.org/abs/2412.19087}, 
     }
+
 ```
