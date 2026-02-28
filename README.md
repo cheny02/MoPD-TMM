@@ -24,15 +24,18 @@ Our implementation is based on the [CoOp](https://github.com/KaiyangZhou/CoOp) a
 ## Citation
 If you find our paper of codebase useful, please consider citing us as:
 ```bibtex
-    @article{chen2024mopdmixtureofpromptsdistillationvisionlanguage,
-        title={MoPD: Mixture-of-Prompts Distillation for Vision-Language Models}, 
-        author={Yang Chen and Shuai Fu and Yu Zhang},
-        year={2024},
-        eprint={2412.19087},
-        archivePrefix={arXiv},
-        primaryClass={cs.CV},
-        url={https://arxiv.org/abs/2412.19087}, 
+@ARTICLE{11303908,
+  author={Chen, Yang and Fu, Shuai and Zhang, Yu},
+  journal={IEEE Transactions on Multimedia}, 
+  title={MoPD: Mixture-of-Prompts Distillation for Vision-Language Models}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-12},
+  keywords={Visualization;Vectors;Learning systems;Training data;Adaptation models;Noise measurement;Knowledge engineering;Data mining;Transformers;Training;Vision-language models;prompt learning;few-shot learning;prompt distillation},
+  doi={10.1109/TMM.2025.3645615}}
     }
 
 ```
+
 
