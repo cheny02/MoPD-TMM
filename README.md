@@ -22,8 +22,8 @@ We provide the running scripts in scripts/run, which allow you to reproduce the 
 Our implementation is based on the [CoOp](https://github.com/KaiyangZhou/CoOp) and [CoCoOp](https://github.com/KaiyangZhou/CoOp).
 
 ## Citation
-```bibtex
 If you find our paper of codebase useful, please consider citing us as:
+```bibtex
     @article{chen2024mopdmixtureofpromptsdistillationvisionlanguage,
         title={MoPD: Mixture-of-Prompts Distillation for Vision-Language Models}, 
         author={Yang Chen and Shuai Fu and Yu Zhang},
@@ -35,3 +35,4 @@ If you find our paper of codebase useful, please consider citing us as:
     }
 
 ```
+
